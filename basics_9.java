@@ -4,3 +4,4 @@ public class basics_9{
         System.out.println(x);
     }
 }
+// range in int
