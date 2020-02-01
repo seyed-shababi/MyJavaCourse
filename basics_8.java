@@ -4,3 +4,4 @@ public class basics_8{
         //System.out.println(s);
     }
 }
+//java errors
