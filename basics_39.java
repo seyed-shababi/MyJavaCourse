@@ -6,7 +6,7 @@ public class basics_39{
         x[2] = 30;
         x[3] = 40;
         x[4] = 50;
-        x[0] = 2.5;  // here as the mistake is the compiler catches the mistake and runs the CE of
+        //x[0] = 2.5;  // here as the mistake is the compiler catches the mistake and runs the CE of
                      //Error:(9, 16) java: incompatible types: possible lossy conversion from double to int
         System.out.println(x[0]);
         System.out.println(x[1]);
@@ -19,6 +19,8 @@ public class basics_39{
         System.out.println(x[3]);
         System.out.println(x[4]);
         System.out.println(x[5]);
+
+
 
     }
 }
