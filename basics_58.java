@@ -10,5 +10,8 @@ public class basics_58{
         System.out.println(basics_58.x);// to access the static variables we can use class reference perfectly
         System.out.println(x);// to access the static variables we can access directly perfectly
     }
+    public void m1(){
+        System.out.println(x);// the static variable can be accessed directly from both instance and static areas
+    }
 
         }
