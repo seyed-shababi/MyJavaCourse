@@ -14,7 +14,7 @@ public class basics_60{
        as we see in thins example static variables are not copied in every onject creation instead they are shared among all objects
        but the instance variables are copied from the class level by each object creation and any change of them withing any object does not
        reflect to other copy of the same variable in the class level or object level
-       
+
          */
     }
 }
