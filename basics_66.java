@@ -13,7 +13,7 @@ public class basics_66{
         System.out.println("The sum is " + total);
         /*
         as you see here in this example the art of var-arg method is that you make one method and you call any time you
-        want and you pass any value based on your reauirment 
+        want and you pass any value based on your requirement
          */
     }
 }
