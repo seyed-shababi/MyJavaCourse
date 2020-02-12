@@ -13,4 +13,5 @@ public class basics_74{
         if the main method is there then jvm starts to run the code and
         the order will not change, like you see here the static method
         will execute first then main method.
+        very important to look video 14.
         */
