@@ -7,5 +7,5 @@ public class basics_80 {
     public static int Sum(int num1, int num2){
         return num1 + num2 ;
     }
-
 }
+
