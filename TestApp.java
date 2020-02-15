@@ -1,8 +1,8 @@
-import local.java.operatorsAndAssignments.IncDec_1;
+import local.java.operatorsAndAssignments.*;
 
 public class TestApp{
     public static void main(String[] args){
-        IncDec_1 obj = new IncDec_1();
-        obj.incDec();
+    EquOp_4 obj = new EquOp_4();
+    obj.equa();
     }
 }
