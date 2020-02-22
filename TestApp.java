@@ -1,10 +1,8 @@
-import local.java.typeCasting.T_casting_3;
-
+import local.java.transferStatement.Trans_3;
 
 public class TestApp{
     public static void main(String[] args){
-        T_casting_3 a1 = new T_casting_3();
-        a1.cast();
+        Trans_3 f = new Trans_3();
+        f.break_3();
     }
-
 }
