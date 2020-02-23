@@ -1,8 +1,8 @@
-import local.java.transferStatement.Trans_3;
+//import local.java.transferStatement.Trans_10;
 
 public class TestApp{
     public static void main(String[] args){
-        Trans_3 f = new Trans_3();
-        f.break_3();
+        local.java.transferStatement.Trans_10 f = new local.java.transferStatement.Trans_10();
+        f.conutine_6();
     }
 }
