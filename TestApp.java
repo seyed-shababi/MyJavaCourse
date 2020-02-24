@@ -1,8 +1,8 @@
-//import local.java.transferStatement.Trans_10;
+import local.java.staticImport.Static_2;
 
 public class TestApp{
     public static void main(String[] args){
-        local.java.transferStatement.Trans_10 f = new local.java.transferStatement.Trans_10();
-        f.conutine_6();
+        Static_2 s = new Static_2();
+        s.math_2();
     }
 }
